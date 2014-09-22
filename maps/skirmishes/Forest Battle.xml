@@ -33,9 +33,9 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="405.811" y="128.337" z="213.47"/>
-		<Rotation angle="-1.46521"/>
-		<Declination angle="0.417462"/>
+		<Position x="179.827" y="137.16" z="85.3873"/>
+		<Rotation angle="-0.0896801"/>
+		<Declination angle="0.610866"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
 {
@@ -13442,8 +13442,8 @@
 		<Entity uid="2208">
 			<Template>gaia/fauna_boar</Template>
 			<Player>0</Player>
-			<Position x="338.31556" z="76.16063"/>
-			<Orientation y="2.31508"/>
+			<Position x="337.50928" z="73.79245"/>
+			<Orientation y="-3.01281"/>
 			<Actor seed="61502"/>
 		</Entity>
 		<Entity uid="2209">
@@ -17557,6 +17557,24 @@
 			<Position x="625.65394" z="109.28136"/>
 			<Orientation y="-0.74058"/>
 			<Actor seed="50962"/>
+		</Entity>
+		<Entity uid="2877">
+			<Template>actor|props/flora/bush_highlands.xml</Template>
+			<Position x="212.44457" z="261.93699"/>
+			<Orientation y="0.569"/>
+			<Actor seed="52060"/>
+		</Entity>
+		<Entity uid="2878">
+			<Template>actor|props/flora/bush_highlands.xml</Template>
+			<Position x="218.9798" z="263.09617"/>
+			<Orientation y="2.20554"/>
+			<Actor seed="828"/>
+		</Entity>
+		<Entity uid="2879">
+			<Template>actor|props/flora/bush_highlands.xml</Template>
+			<Position x="216.07308" z="262.2075"/>
+			<Orientation y="1.07416"/>
+			<Actor seed="17346"/>
 		</Entity>
 	</Entities>
 	<Paths/>
