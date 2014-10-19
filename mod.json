@@ -3,7 +3,7 @@
     "version": "0.0.17",
     "label": "Forest Battle Skirmish (4)",
     "url": "github.com/0ADMods/map_Forest_Battle",
-    "description": "The Forest Battle map created by Stanislas Dolcini (stanislas69) and edited by Niek ten Brinke. This is a four player map specially designed to prevent early rushing.",
+    "description": "The Forest Battle map created by Stanislas Dolcini (stanislas69) and edited by Niek ten Brinke (niektb). This map was created to participate in Mapping Contest 16 hosted by the Council of Modders. This is a four player map specially designed to prevent early rushing.",
     "dependencies": ["0ad"],
     "type": "map"
 }
