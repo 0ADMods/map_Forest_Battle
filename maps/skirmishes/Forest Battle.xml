@@ -33,18 +33,18 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="158.778" y="389.459" z="-281.028"/>
-		<Rotation angle="0.336127"/>
-		<Declination angle="0.610865"/>
+		<Position x="214.327" y="511.095" z="-192.292"/>
+		<Rotation angle="0.332618"/>
+		<Declination angle="0.800836"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
 {
   "CircularMap": true,
-  "Description": "A forest battle map where all players fight for supremacy and control over the midlle\n\nAuthor : Stanislas Dolcini",
+  "Description": "A forest battle map where all players fight for supremacy and control over the middle.\n\nAuthor : Stanislas Dolcini (aka stanislas69)",
   "GameType": "conquest",
   "Keywords": [],
   "LockTeams": false,
-  "Name": "(4) Forest Battle",
+  "Name": "Forest Battle (4)",
   "PlayerData": [
     {
       "PopulationLimit": 100
