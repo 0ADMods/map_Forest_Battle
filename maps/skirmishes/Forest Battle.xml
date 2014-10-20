@@ -33,8 +33,8 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="371.38" y="128.981" z="-32.5673"/>
-		<Rotation angle="0.384043"/>
+		<Position x="158.778" y="389.459" z="-281.028"/>
+		<Rotation angle="0.336127"/>
 		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
@@ -9951,7 +9951,7 @@
 		<Entity uid="1795">
 			<Template>gaia/geology_stonemine_temperate_quarry</Template>
 			<Player>0</Player>
-			<Position x="522.11396" z="313.56928"/>
+			<Position x="449.44697" z="183.68128"/>
 			<Orientation y="2.35622"/>
 			<Actor seed="0"/>
 		</Entity>
@@ -10824,7 +10824,7 @@
 		</Entity>
 		<Entity uid="1940">
 			<Template>actor|props/flora/foliagebush.xml</Template>
-			<Position x="522.35395" z="216.96653"/>
+			<Position x="521.13355" z="207.57158"/>
 			<Orientation y="2.09008"/>
 			<Actor seed="46588"/>
 		</Entity>
@@ -11166,13 +11166,13 @@
 		</Entity>
 		<Entity uid="1997">
 			<Template>actor|props/flora/grass_temp_field.xml</Template>
-			<Position x="563.97962" z="197.11591"/>
+			<Position x="579.80146" z="194.14219"/>
 			<Orientation y="-1.11683"/>
 			<Actor seed="53616"/>
 		</Entity>
 		<Entity uid="1998">
 			<Template>actor|props/flora/grass_temp_field.xml</Template>
-			<Position x="504.2021" z="223.955"/>
+			<Position x="500.33521" z="217.17446"/>
 			<Orientation y="-1.63195"/>
 			<Actor seed="23488"/>
 		</Entity>
@@ -11244,7 +11244,7 @@
 		</Entity>
 		<Entity uid="2010">
 			<Template>actor|props/flora/grass_temp_field.xml</Template>
-			<Position x="553.93787" z="186.06807"/>
+			<Position x="549.89045" z="174.00432"/>
 			<Orientation y="2.89344"/>
 			<Actor seed="3738"/>
 		</Entity>
@@ -11274,7 +11274,7 @@
 		</Entity>
 		<Entity uid="2015">
 			<Template>actor|props/flora/grass_temp_field.xml</Template>
-			<Position x="506.84894" z="228.39843"/>
+			<Position x="508.44904" z="211.57018"/>
 			<Orientation y="0.09716"/>
 			<Actor seed="25166"/>
 		</Entity>
@@ -11988,13 +11988,13 @@
 		</Entity>
 		<Entity uid="2134">
 			<Template>actor|props/flora/grass_soft_small.xml</Template>
-			<Position x="584.68836" z="174.25365"/>
+			<Position x="588.49701" z="175.68528"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="18740"/>
 		</Entity>
 		<Entity uid="2135">
 			<Template>actor|props/flora/grass_soft_small.xml</Template>
-			<Position x="583.2782" z="176.92658"/>
+			<Position x="589.84656" z="184.836"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="26144"/>
 		</Entity>
@@ -12761,14 +12761,14 @@
 		<Entity uid="2297">
 			<Template>gaia/flora_tree_pine</Template>
 			<Player>0</Player>
-			<Position x="548.46808" z="191.41712"/>
+			<Position x="539.67042" z="179.35706"/>
 			<Orientation y="1.87496"/>
 			<Actor seed="4460"/>
 		</Entity>
 		<Entity uid="2298">
 			<Template>gaia/flora_tree_pine</Template>
 			<Player>0</Player>
-			<Position x="565.81818" z="195.68357"/>
+			<Position x="580.30341" z="203.3889"/>
 			<Orientation y="1.40682"/>
 			<Actor seed="34060"/>
 		</Entity>
@@ -12803,7 +12803,7 @@
 		<Entity uid="2303">
 			<Template>gaia/flora_tree_pine</Template>
 			<Player>0</Player>
-			<Position x="473.27637" z="254.50779"/>
+			<Position x="485.43897" z="263.62995"/>
 			<Orientation y="2.47521"/>
 			<Actor seed="14668"/>
 		</Entity>
@@ -12922,14 +12922,14 @@
 		<Entity uid="2320">
 			<Template>gaia/flora_tree_pine</Template>
 			<Player>0</Player>
-			<Position x="478.04145" z="244.12211"/>
+			<Position x="475.36158" z="237.39182"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="23956"/>
 		</Entity>
 		<Entity uid="2321">
 			<Template>gaia/flora_tree_pine</Template>
 			<Player>0</Player>
-			<Position x="489.57688" z="243.14478"/>
+			<Position x="503.59247" z="248.87946"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="2598"/>
 		</Entity>
@@ -13202,7 +13202,7 @@
 		<Entity uid="2360">
 			<Template>gaia/flora_tree_pine</Template>
 			<Player>0</Player>
-			<Position x="524.3014" z="227.44236"/>
+			<Position x="516.75245" z="209.45878"/>
 			<Orientation y="-0.44428"/>
 			<Actor seed="6068"/>
 		</Entity>
@@ -13888,14 +13888,14 @@
 		<Entity uid="2458">
 			<Template>gaia/flora_tree_pine</Template>
 			<Player>0</Player>
-			<Position x="527.64661" z="215.16727"/>
+			<Position x="534.61811" z="229.15908"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="64580"/>
 		</Entity>
 		<Entity uid="2459">
 			<Template>gaia/flora_tree_pine</Template>
 			<Player>0</Player>
-			<Position x="514.61677" z="228.26282"/>
+			<Position x="529.57789" z="240.46073"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="61726"/>
 		</Entity>
@@ -14511,7 +14511,7 @@
 		<Entity uid="2547">
 			<Template>gaia/flora_tree_pine</Template>
 			<Player>0</Player>
-			<Position x="506.38282" z="229.54365"/>
+			<Position x="501.68354" z="220.71668"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="29440"/>
 		</Entity>
@@ -15626,7 +15626,7 @@
 		</Entity>
 		<Entity uid="2765">
 			<Template>actor|props/flora/grass_soft_large.xml</Template>
-			<Position x="579.21839" z="178.04847"/>
+			<Position x="569.74006" z="163.20551"/>
 			<Orientation y="-2.9094"/>
 			<Actor seed="30906"/>
 		</Entity>
