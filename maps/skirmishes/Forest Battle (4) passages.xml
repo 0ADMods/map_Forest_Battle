@@ -16,11 +16,11 @@
 		<Water>
 			<WaterBody>
 				<Type>clap</Type>
-				<Colour r="0" g="0.247059" b="0"/>
+				<Colour r="0" g="0.25098" b="0"/>
 				<Tint r="0" g="0.501961" b="0.247059"/>
 				<Height>15.9475</Height>
 				<Waviness>1.09375</Waviness>
-				<Murkiness>0.914063</Murkiness>
+				<Murkiness>0.867188</Murkiness>
 				<WindAngle>-0.19635</WindAngle>
 			</WaterBody>
 		</Water>
@@ -33,8 +33,8 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="140.804" y="46.5703" z="281.964"/>
-		<Rotation angle="-0.3788"/>
+		<Position x="329.91" y="135.574" z="451.848"/>
+		<Rotation angle="-0.782209"/>
 		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
@@ -12429,7 +12429,7 @@
 		<Entity uid="2248">
 			<Template>gaia/fauna_fish</Template>
 			<Player>0</Player>
-			<Position x="135.38172" z="345.6443"/>
+			<Position x="155.28678" z="347.88361"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="2574"/>
 		</Entity>
@@ -16944,6 +16944,36 @@
 			<Position x="107.20594" z="330.9492"/>
 			<Orientation y="1.0476"/>
 			<Actor seed="44750"/>
+		</Entity>
+		<Entity uid="3042">
+			<Template>actor|geology/highland1_moss.xml</Template>
+			<Position x="118.38389" z="348.12378"/>
+			<Orientation y="0.70984"/>
+			<Actor seed="52328"/>
+		</Entity>
+		<Entity uid="3050">
+			<Template>actor|props/flora/grass_tufts_a.xml</Template>
+			<Position x="117.452" z="337.22214"/>
+			<Orientation y="-1.06521"/>
+			<Actor seed="23236"/>
+		</Entity>
+		<Entity uid="3056">
+			<Template>actor|props/flora/grass_tufts_a.xml</Template>
+			<Position x="117.34423" z="347.73646"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="14146"/>
+		</Entity>
+		<Entity uid="3057">
+			<Template>actor|props/flora/plant_lg.xml</Template>
+			<Position x="116.0481" z="349.0973"/>
+			<Orientation y="0.3302"/>
+			<Actor seed="59916"/>
+		</Entity>
+		<Entity uid="3058">
+			<Template>actor|props/flora/plant_sm.xml</Template>
+			<Position x="116.49291" z="350.74445"/>
+			<Orientation y="-0.20562"/>
+			<Actor seed="41738"/>
 		</Entity>
 	</Entities>
 	<Paths/>
